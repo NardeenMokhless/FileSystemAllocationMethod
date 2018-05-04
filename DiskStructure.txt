@@ -1,0 +1,36 @@
+Indexed@330bedb4
+20
+0
+20
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+4
+root/f/d 0
+root/f/c 6
+root/f/b 8
+root/f/a 14
+0 false
+1 false 4 2 3 4 5
+2 false
+3 false
+4 false
+5 false
+6 false
+7 false
+8 false
+9 false 4 10 11 12 13
+10 false
+11 false
+12 false
+13 false
+14 false
+15 false 4 16 17 18 19
+16 false
+17 false
+18 false
+19 false
+root 0 1
+root/f 4 0
+root/f/d 4
+root/f/c 4
+root/f/b 4
+root/f/a 4
